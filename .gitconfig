@@ -1,0 +1,7 @@
+[user]
+	email = yonastekle433@gmail.com
+	name = yonastekle433
+[credential]
+	helper = cache
+[credentials]
+	helper = manager
